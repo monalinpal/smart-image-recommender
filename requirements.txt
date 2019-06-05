@@ -1,0 +1,8 @@
+Django
+numpy
+djangorestframework
+keras
+tensorflow
+imutils
+sklearn
+opencv-python
